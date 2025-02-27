@@ -1,8 +1,6 @@
 <h1>Hi, I'm Jakarria! <br/><a href="https://github.com/jakarria"></a>Tech Enthusiast<a href="https://www.linkedin.com/in/jakarria-wilcox">
 
 <h2> 👩🏾‍💻 Projects:</h2>
-Unit One: Cyberchef CT <br/><a href="https://docs.google.com/document/d/1UjzKJ70ACB1n5MUNehvIMuTB1We-SPi0TghuMqbeH5s/edit?usp=sharing">
-
 
 <h2> 📄 Certifications: </h2>
 
