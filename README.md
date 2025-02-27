@@ -5,6 +5,7 @@
 <h3>Unit One: Cyberchef CTF</h3> <br/><a href="https://docs.google.com/document/d/1UjzKJ70ACB1n5MUNehvIMuTB1We-SPi0TghuMqbeH5s/edit?usp=sharing">
 
 <h2> 📄 Certifications: </h2>
+Currently working on Security+
 
 <h2> 🤳 Connect with me:</h2>
 
