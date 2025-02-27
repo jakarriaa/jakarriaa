@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jakarria! <br/><a href="https://github.com/jakarria"></a>Tech Enthusiast<a href="https://www.linkedin.com/in/jakarria-wilcox">
+<h1>Hi, I'm Jakarria! <br><a href="https://github.com/jakarria"></a>Tech Enthusiast<a href="https://www.linkedin.com/in/jakarria-wilcox"></br>
 
 <h2> 👩🏾‍💻 Projects:</h2>
 
