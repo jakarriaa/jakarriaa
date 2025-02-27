@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jakarria! <br/><a href="https://github.com/jakarria"></a>Tech Enthusiast<a href="https://www.linkedin.com/in/jakarria-wilcox">
 
-<h2> 👩🏾‍💻 CyberSecurity CodePath:</h2>
+<h2> 👩🏾‍💻 Projects:</h2>
 <h3>Unit One: Cyberchef CTF</h3> 
-<a>https://docs.google.com/document/d/1UjzKJ70ACB1n5MUNehvIMuTB1We-SPi0TghuMqbeH5s/edit?usp=sharing</a>
+<a> href="https://docs.google.com/document/d/1UjzKJ70ACB1n5MUNehvIMuTB1We-SPi0TghuMqbeH5s/edit?usp=sharing"</a>
 
 <h2> 📄 Certifications: </h2>
 
