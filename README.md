@@ -2,7 +2,7 @@
 
 <h2> 👩🏾‍💻 Projects:</h2>
 <h3>Unit One: Cyberchef CTF</h3> 
-<a> href="https://docs.google.com/document/d/1UjzKJ70ACB1n5MUNehvIMuTB1We-SPi0TghuMqbeH5s/edit?usp=sharing"</a>
+<a href="https://docs.google.com/document/d/1UjzKJ70ACB1n5MUNehvIMuTB1We-SPi0TghuMqbeH5s/edit?usp=sharing">
 
 <h2> 📄 Certifications: </h2>
 
