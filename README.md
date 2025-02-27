@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jakarria! <br/><a href="https://github.com/jakarria"></a>Tech Girly<a href="https://www.linkedin.com/in/jakarria-wilcox">
+<h1>Hi, I'm Jakarria! <br/><a href="https://github.com/jakarria"></a>Tech Enthusiast<a href="https://www.linkedin.com/in/jakarria-wilcox">
 
-<h2> 👩🏾‍💻 Tech Enthusiast:</h2>
+<h2> 👩🏾‍💻 CyberSecurity CodePath:</h2>
 
 <h2> 📄 Certifications: </h2>
 
