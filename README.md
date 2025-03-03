@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jakarria! <br/><a href="https://github.com/jakarria">Programmer</a>, <a href="https://www.linkedin.com/in/jakarria-wilcox">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Jakarria! <br/> <a href="https://www.linkedin.com/in/jakarria-wilcox">Cybersecurity Enthusiast</a>, <a href="https://github.com/jakarria">Programmer</a></h1>
 
 <h2> 👩🏾‍💻 Cybersecurity Projects:</h2>
 
