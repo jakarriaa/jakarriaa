@@ -17,6 +17,9 @@
 
 - <b>Software Engineering II Week Four</b>
   - [Selenium](https://drive.google.com/drive/folders/1cISSJrw8f3QpUG8XuGrQC92LA5Q54vIj?usp=sharing)
+- <b>Software Engineering II Week Three</b>
+  - [Unit Testing with JUnit](https://drive.google.com/drive/folders/1JLpy4IQL_AzcCPfNyP4CAtXutCd-Lr7o?usp=sharing)
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
