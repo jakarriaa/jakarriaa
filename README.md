@@ -16,7 +16,7 @@
 <h2> 👩🏾‍💻 Programming  Porjects:</h2>
 
 - <b>Software Engineering II Week Four</b>
-  -[Selenium](https://drive.google.com/drive/folders/1cISSJrw8f3QpUG8XuGrQC92LA5Q54vIj?usp=sharing)
+  - [Selenium](https://drive.google.com/drive/folders/1cISSJrw8f3QpUG8XuGrQC92LA5Q54vIj?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
