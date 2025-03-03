@@ -2,32 +2,24 @@
 
 <h2> 👩🏾‍💻 Cybersecurity Projects:</h2>
 
-- <b>CodePath Unit Three</b>
+- <b>CodePath</b>
   - [Password Crack-a-thon](https://docs.google.com/document/d/13w35WJgLxtl9jfvrdlj_-yvGYlBRlslouxtqCOc80YI/edit?usp=sharing)
-- <b>CodePath Unit Five</b>
   - [DIY Malware](https://docs.google.com/document/d/1j_5fDWFwAPINAFh2-8T6_9CpztUvUeF2ackXZbZLEd4/edit?usp=sharing)
-- <b>CodePath Unit Six</b>
   - [Steghide and Seek](https://docs.google.com/document/d/1GvWicZm2ne4IeevihtJzr0lgWQNPOrAOO0f54LYtS3s/edit?usp=sharing)
-- <b>CodePath Unit Seven</b>
   - [Threat Analysis](https://docs.google.com/document/d/1pJbmp5YL7tz2-z_5DFRqX7j_TBxE-nOUx2t_tAimUxM/edit?usp=sharing)
-- <b>Computer Security Seed-Lab One</b>
+- <b>Computer Security</b>
   - [Zenmap](https://drive.google.com/drive/folders/1YBB4Z4N5Qs26urcu7XNMlFM4RuUEBNfy?usp=sharing)
-- <b>Computer Security Seed-Lab Two</b>
   - [Shellcode Development](https://drive.google.com/drive/folders/1LJiGHJxMSbvn_1SD7IupeHRxSr3NGuTr?usp=sharing)
-- <b>Computer Security Seed-Lab Five</b>
   - [Packet Sniffing and Spoofing](https://drive.google.com/drive/folders/18NCE0ClZn5Yk4lcBh-1Aegh-54pg1nzC?usp=share_link)
 
 <h2> 👩🏾‍💻 Programming  Porjects:</h2>
 
-- <b>Software Engineering II Week Three</b>
+- <b>Software Engineering</b>
   - [Unit Testing with JUnit](https://drive.google.com/drive/folders/1JLpy4IQL_AzcCPfNyP4CAtXutCd-Lr7o?usp=sharing)
-- <b>Software Engineering II Week Four</b>
   - [Selenium](https://drive.google.com/drive/folders/1cISSJrw8f3QpUG8XuGrQC92LA5Q54vIj?usp=sharing)
 - <b>Mobile App Development II IOS</b>
   - [Guess The Flag](https://drive.google.com/drive/folders/1Ri5TPk5LQ95LHxorYwv265hiAX92hoNC?usp=sharing)
-- <b>Mobile App Development II IOS</b>
   - [IExpense](https://drive.google.com/drive/folders/14sEHNrB7bqpzAa7KZwXF88LUlAaw1f5V?usp=sharing)
-- <b>Mobile App Development II IOS</b>
   - [Landmarks](https://drive.google.com/drive/folders/1UuskUEQKXgB68gIETkHJO5UPvwL7F4Ix?usp=sharing)
  
 
