@@ -10,7 +10,7 @@
   - [Steghide and Seek](https://docs.google.com/document/d/1GvWicZm2ne4IeevihtJzr0lgWQNPOrAOO0f54LYtS3s/edit?usp=sharing)
 - <b>CodePath Unit Seven</b>
   - [Threat Analysis](https://docs.google.com/document/d/1pJbmp5YL7tz2-z_5DFRqX7j_TBxE-nOUx2t_tAimUxM/edit?usp=sharing)
--<b>Computer Security Lab Five</b>
+- <b>Computer Security Lab Five</b>
   - [Packet Sniffing and Spoofing](https://drive.google.com/drive/folders/18NCE0ClZn5Yk4lcBh-1Aegh-54pg1nzC?usp=share_link)
 
 <h2> 👩🏾‍💻 Programming  Porjects:</h2>
