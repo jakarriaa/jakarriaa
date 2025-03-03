@@ -23,7 +23,11 @@
   - [Guess The Flag](https://drive.google.com/drive/folders/1Ri5TPk5LQ95LHxorYwv265hiAX92hoNC?usp=sharing)
   - [IExpense](https://drive.google.com/drive/folders/14sEHNrB7bqpzAa7KZwXF88LUlAaw1f5V?usp=sharing)
   - [Landmarks](https://drive.google.com/drive/folders/1UuskUEQKXgB68gIETkHJO5UPvwL7F4Ix?usp=sharing)
- 
+  - [TicTacToe](https://drive.google.com/drive/folders/1KeDkxeplYczBunPQpxgWMUcSGYVELZh9?usp=sharing)
+  - [Cupcake](https://drive.google.com/drive/folders/1eB8UpgFucC4uQWcIQXvdlTJeBa61Hwmz?usp=sharing)
+
+ - <b>Web Development</b>
+   - [Portfolio Front](https://drive.google.com/drive/folders/1jB386YbxBM1m346k32RbeNMKN0IUkX26?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
