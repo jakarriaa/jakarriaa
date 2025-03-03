@@ -11,7 +11,7 @@
 - <b>CodePath Unit Seven</b>
   - [Threat Analysis](https://docs.google.com/document/d/1pJbmp5YL7tz2-z_5DFRqX7j_TBxE-nOUx2t_tAimUxM/edit?usp=sharing)
 - <b>Computer Security Lab One</b>
-  -[Zenmap](https://drive.google.com/drive/folders/1YBB4Z4N5Qs26urcu7XNMlFM4RuUEBNfy?usp=sharing)
+  - [Zenmap](https://drive.google.com/drive/folders/1YBB4Z4N5Qs26urcu7XNMlFM4RuUEBNfy?usp=sharing)
 - <b>Computer Security Lab Five</b>
   - [Packet Sniffing and Spoofing](https://drive.google.com/drive/folders/18NCE0ClZn5Yk4lcBh-1Aegh-54pg1nzC?usp=share_link)
 
